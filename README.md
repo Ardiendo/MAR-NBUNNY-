@@ -1,4 +1,3 @@
-::: {align="center"}
 # 🌸 MarínBunny --- Discord Bot
 
 Un bot elegante, rápido y con vibes de desarrolladora pro ✨
